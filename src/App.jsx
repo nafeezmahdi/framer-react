@@ -1,7 +1,11 @@
+import Animate from "./components/Animate";
+import Usage from "./components/Usage";
+
 function App() {
   return (
     <>
-      <p className="text-amber-500">Framer Motion</p>
+      <Usage />
+      <Animate />
     </>
   );
 }
