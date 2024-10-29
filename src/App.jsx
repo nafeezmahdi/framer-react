@@ -1,11 +1,9 @@
-import Animate from "./components/Animate";
-import Usage from "./components/Usage";
+import Keyframes from "./components/Keyframes";
 
 function App() {
   return (
     <>
-      <Usage />
-      <Animate />
+      <Keyframes />
     </>
   );
 }
