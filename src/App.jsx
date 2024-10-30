@@ -1,9 +1,9 @@
-import Keyframes from "./components/Keyframes";
+import Example from "./components/Example";
 
 function App() {
   return (
     <>
-      <Keyframes />
+      <Example />
     </>
   );
 }
